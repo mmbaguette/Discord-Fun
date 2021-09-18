@@ -1,6 +1,6 @@
 # Discord-Fun 
 
-**Disclaimer**: I have no intentions to do any harm to hurt Discord or its users. This project is purely combination of the fun programs I made related to Discord.
+**Disclaimer**: I have no intentions to do any harm towards Discord or its users. This project is purely combination of the fun programs I made related to Discord.
 
 ## A Combination of Showing Off, A Hacky Console and Trolling
 
