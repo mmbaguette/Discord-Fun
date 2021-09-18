@@ -12,3 +12,6 @@
 
 ### Hacky Console:
 ![Self-bot?](https://media.discordapp.net/attachments/749745462537355286/883069993917493258/unknown.png)
+
+
+**And more!**
