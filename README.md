@@ -11,7 +11,7 @@
 ![Status Bar](https://i.gyazo.com/9cf72fc0f530a7a189dda55853b223a7.gif)
 
 ### Hacky Console:
-![Self-bot?](https://media.discordapp.net/attachments/749745462537355286/883069993917493258/unknown.png)
+![Self-bot?](https://github.com/mmbaguette/Discord-Fun/blob/main/example%20images/hacky%20console.PNG?raw=true)
 
 
 **And more!**
